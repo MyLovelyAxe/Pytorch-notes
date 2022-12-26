@@ -4,6 +4,7 @@ import  torch.nn.functional as F
 import  torch.optim as optim
 from    torchvision import datasets, transforms
 
+###### transfer data, network, optimizer onto GPU to accelerate the training process ######
 
 batch_size=200
 learning_rate=0.01
