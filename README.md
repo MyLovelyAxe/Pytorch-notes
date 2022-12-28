@@ -5,9 +5,13 @@ This collection of notes is arrangement of my previous notes of self-learning of
 The subjects include:
 
 1 Software and Introduction
+
   01 Pytorch Introduction
+  
   02 Pytorch installation
+  
 2 Examples of Deep Learning
+
   01 Regression
   02 Handwriting Digit Detection
 3 Basic Operations in Pytorch
