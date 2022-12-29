@@ -4,66 +4,74 @@ This collection of notes is arrangement of my previous notes of self-learning of
 
 The subjects include:
 
-1 Software and Introduction
+#### 1 Software and Introduction
 
-  01 Pytorch Introduction
+  1. Pytorch Introduction
   
-  02 Pytorch installation
+  2. Pytorch installation
   
-2 Examples of Deep Learning
+#### 2 Examples of Deep Learning
 
-  01 Regression
+  1. Regression
   
-  02 Handwriting Digit Detection
+  2. Handwriting Digit Detection
   
-3 Basic Operations in Pytorch
+#### 3 Basic Operations in Pytorch
 
-  01 Data Type
+  1. Data Type
   
-  02 Tensor Building
+  2. Tensor Building
   
-  03 Slicing and Indexing
+  3. Slicing and Indexing
   
-  04 Concatenation and Division
+  4. Concatenation and Division
   
-  05 Math Operation
+  5. Math Operation
   
-  06 Dimension Changing
+  6. Dimension Changing
   
-  07 Broadcast
+  7. Broadcast
   
-  08 Statistics
+  8. Statistics
   
-  09 Other Advanced Operation
+  9. Other Advanced Operation
   
-4 Gradients and Perceptrons
+#### 4 Gradients and Perceptrons
 
-  01 Gradients
+  1. Gradients
   
-    A Activation Function
+```Python
+		A. Activation Function
+		
+		B. Loss Error
+```
     
-    B Loss Error
-    
-  02 Backpropagation
+  2. Backpropagation
   
-  03 Multi-Perceptron
-  
-    A Single Perceptron
-    
-    B Multi-Perceptron
-    
-  04 Training
-  
-    A Adam Optimizer
-    
-    B Cross Entropy Loss
-    
-    C Logistic Regression
-    
-    D Training of MNIST dataset
+  3. Multi-Perceptron
 
-  05 Improvement of Overfitting
-  
-    A Bias and Variance Trade-off
+```Python  
+		A. Single Perceptron
     
-    B Improvement Methods
+		B. Multi-Perceptron
+```
+    
+  4. Training
+
+```Python  
+		A. Adam Optimizer
+	    
+		B. Cross Entropy Loss
+	    
+		C. Logistic Regression
+	    
+		D. Training of MNIST dataset
+```
+
+  5. Improvement of Overfitting
+
+```Python  
+		A. Bias and Variance Trade-off
+    
+		B. Improvement Methods
+```
