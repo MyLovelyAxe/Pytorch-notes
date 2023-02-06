@@ -75,3 +75,5 @@ The subjects include:
     
 		B. Improvement Methods
 ```
+
+  6. RNN&LSTM
