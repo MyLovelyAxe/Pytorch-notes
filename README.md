@@ -77,3 +77,11 @@ The subjects include:
 ```
 
   6. RNN&LSTM
+  
+```Python  
+		A. RNN
+    
+		B. LSTM
+		
+		C. GRU
+```
