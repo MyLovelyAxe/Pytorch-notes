@@ -85,3 +85,13 @@ The subjects include:
 		
 		C. GRU
 ```
+
+  7. RNN&LSTM
+  
+```Python  
+		A. RNN
+    
+		B. LSTM
+		
+		C. GRU
+```
